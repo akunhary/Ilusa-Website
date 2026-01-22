@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Website Ilusa Berhasil Online!</h1>
+    <img src="LP Ilusa1.jpg" style="width:100%;">
+</body>
+</html>
